@@ -51,7 +51,7 @@
   <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
       <img src="https://img.icons8.com/color/20/undefined/top-menu.png"/>
     </button>
-    <a class="navbar-brand " href="#" id="ColorUSer">Zuly<img src="https://img.icons8.com/color/20/undefined/circled-user-male-skin-type-4--v1.png"/></a>
+    <a class="navbar-brand " href="#" id="ColorUSer">ZulyGS<img src="https://img.icons8.com/color/20/undefined/circled-user-male-skin-type-4--v1.png"/></a>
     <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header" style="align:center">
         <center>
